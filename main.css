@@ -22,13 +22,14 @@ header {
     background: url("img/header-background.png") right top;
     background-repeat: no-repeat;
     height: 629px;
-    width: 1200px;
     margin-bottom: 144px;
 
 }
 .header-container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 
-    margin: 0 120px;
 }
 
 .navbar {
