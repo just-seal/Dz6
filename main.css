@@ -19,7 +19,7 @@ body{
 }
 
 header {
-    background: url("img/header-background.png") right top;
+    background: url("img/first-screen_img.svg") right top;
     background-repeat: no-repeat;
     height: 629px;
     margin-bottom: 144px;
@@ -65,7 +65,7 @@ header {
 
 
 .navbar__menu a{
-    border-bottom: 2px solid rgba(253, 196, 53, 0);
+
 }
 .navbar__menu a:hover{
     border-bottom: 2px solid #25282B;
@@ -294,17 +294,12 @@ footer{
     height: 48px;
 }
 .society__item_ins{
-    background: url("img/ph_instagram-logo-fill.png");
+    background: url("img/icons8-instagram.svg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 .society__item_lin{
-    background: url("img/ph_instagram-logo-fill.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.society__item_mail{
-    background: url("img/ph_instagram-logo-fill.png");
+    background: url("img/icons8-телеграм.svg");
     background-size: cover;
     background-repeat: no-repeat;
 }

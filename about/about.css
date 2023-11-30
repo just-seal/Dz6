@@ -66,7 +66,7 @@ header {
 }
 .header-content {
     height: 524px;
-    background: url("../img/bg-2.png") right;
+    background: url("../img/pexels-artem-beliaikin-1832323-removebg-preview.jpg") right;
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -210,20 +210,16 @@ footer{
     height: 48px;
 }
 .society__item_ins{
-    background: url("img/ph_instagram-logo-fill.png");
+    background: url("../img/icons8-instagram.svg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 .society__item_lin{
-    background: url("img/ph_instagram-logo-fill.png");
+    background: url("../img/icons8-телеграм.svg");
     background-size: cover;
     background-repeat: no-repeat;
 }
-.society__item_mail{
-    background: url("img/ph_instagram-logo-fill.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+
 
 
 .some-text {
